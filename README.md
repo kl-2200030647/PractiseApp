@@ -1,4 +1,6 @@
-# React + Vite
+# PractiseApp
+
+This is a JFSD PractiseApp that uses React + Vite.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
